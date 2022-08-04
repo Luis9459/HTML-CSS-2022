@@ -1,0 +1,12 @@
+h1 {
+  font-size: 100px;
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  font-size: 20px;
+}
+.contenidoPagina img {
+  width: 350px;
+  display: block;
+}
