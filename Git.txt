@@ -4,5 +4,5 @@
 4. git add: para añadir un archivo 
 5. git commit: para comentar el archivo y poder subirlo
 6. git remote add origin https://github.com/Luis9459/HTML-CSS-2022.git: para que git sepa donde subir los archivos
-7. git puch -u origin main: para enlazarlo con github
+7. git puch -u origin master: para enlazarlo con github
 8. git push: cuando ya esté enlazado y subirlo
